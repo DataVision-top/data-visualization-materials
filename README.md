@@ -1,2 +1,6 @@
 # data-visualization-materials
-This is an collection of materials about data visualization!
+## Books
+## Classic Papers
+## Journals
+## Conferences
+## Cool Projects
